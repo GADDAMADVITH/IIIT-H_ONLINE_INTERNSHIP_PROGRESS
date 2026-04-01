@@ -29,5 +29,3 @@
 
  [Final Video](https://github.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/raw/main/final_output.mp4)
 
-## Tools Used
-- FFmpeg  
