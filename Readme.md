@@ -1,4 +1,4 @@
- IIIT-H Online Internship Progress
+# IIIT-H Online Internship Progress Outline
 # WEEK01
 # Task 1 - Frame Extraction
 - Extracted frames from video using FFmpeg
