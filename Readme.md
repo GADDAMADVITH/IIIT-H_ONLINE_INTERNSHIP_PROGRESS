@@ -4,10 +4,9 @@
 - Extracted frames from video using FFmpeg
 - Used fps=1 to generate images
 ### Sample Images:
-![Image 1](Task1/sample_images/image_01.jpg)
-![Image 2](Task1/sample_images/image_02.jpg)
-![Image 3](Task1/sample_images/image_03.jpg)
-
+![Image 1](image_01.jpg)
+![Image 2](image_02.jpg)
+![Image 3](image_03.jpg)
 
 # Task 2 - Image to Video Reconstruction
 - Extracted 1-minute clip
