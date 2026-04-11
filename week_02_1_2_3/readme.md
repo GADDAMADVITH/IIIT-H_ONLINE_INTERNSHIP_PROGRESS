@@ -33,3 +33,15 @@
 
 # Detection
 ![Detection](screenshots/detection.png)
+
+# Extra Task - Object Detection Video
+
+- Applied YOLOv8 on multiple images (car racing dataset)
+- Generated annotated images
+- Converted images into video using FFmpeg
+- Added background audio
+
+### 🎥 Final Video:
+[Watch Video](https://github.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/raw/main/final_video.mp4)
+
+---
