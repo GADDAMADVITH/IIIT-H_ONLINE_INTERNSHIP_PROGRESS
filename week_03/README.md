@@ -7,7 +7,7 @@
 - Added background music to the segmented output video
 
 ## Output Video
-[Segmented Video](https://github.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/main/week_03/clip2_with_audio.mp4)
+[Segmented Video](https://github.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/raw/main/week_03/clip2_with_audio.mp4)
 
 ## Performance Metrics
 
