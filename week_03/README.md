@@ -7,7 +7,7 @@
 - Added background music to the segmented output video
 
 ## Output Video
-[Segmented Video](clip2_with_audio.mp4)
+[Segmented Video](https://github.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/main/week_03/clip2_with_audio.mp4)
 
 ## Performance Metrics
 
@@ -17,8 +17,6 @@
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
-### Precision Recall Curve
-![PR Curve](PR_curve.png)
 
 ## Sample Metrics
 - Preprocess Speed: 3.0 ms
