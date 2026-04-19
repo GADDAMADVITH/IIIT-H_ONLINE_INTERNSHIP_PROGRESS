@@ -28,3 +28,12 @@
 - Precision and recall varied across different object classes
 - Some rare objects had lower confidence scores
 - Segmentation provided more detailed object boundaries compared to bounding boxes
+
+## TASK02: Final Comparison Video
+
+The final stacked video contains:
+1. Original raw video
+2. Object detection output
+3. Semantic segmentation output
+
+[Final Stacked Video](https://github.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/raw/main/week_03/final_stacked_video%20(1).mp4)
