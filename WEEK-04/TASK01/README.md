@@ -4,7 +4,7 @@
 ### Overview
 In this task, we analyzed the meta configuration files used in a YOLOv26 dataset. These files define how the model understands dataset structure, class information, and annotations during training and validation.
 
----
+
 
 ### Key Components Studied
 
@@ -24,7 +24,6 @@ In this task, we analyzed the meta configuration files used in a YOLOv26 dataset
 - Values are normalized (0–1)
 - Each line represents one object
 
----
 
 ### Importance
 - Ensures correct data loading
@@ -32,14 +31,12 @@ In this task, we analyzed the meta configuration files used in a YOLOv26 dataset
 - Critical for successful model training
 - Errors in these files can lead to incorrect predictions
 
----
 
 ### Report
 The detailed analysis report is available here:
 
-📄 [Download Report](report.docx)
+ Report (Download)(https://raw.githubusercontent.com/GADDAMADVITH/IIIT-H_ONLINE_INTERNSHIP_PROGRESS/main/WEEK-04/YOLOv26_report%20(1).docx)
 
----
 
 ### References
 - https://docs.ultralytics.com/datasets/
