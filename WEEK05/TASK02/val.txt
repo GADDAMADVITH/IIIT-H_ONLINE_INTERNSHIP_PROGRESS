@@ -1,0 +1,3 @@
+dataset/images/val/resized/frame_0501.jpg
+dataset/images/val/resized/frame_0507.jpg
+dataset/images/val/resized/frame_0513.jpg

@@ -1,0 +1,4 @@
+dataset/images/train/resized/frame_0001.jpg
+dataset/images/train/resized/frame_0007.jpg
+dataset/images/train/resized/frame_0013.jpg
+dataset/images/train/resized/frame_0019.jpg
